@@ -1,0 +1,90 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f9;
+color: #333;
+margin: 0;
+padding: 0;
+background-color: yellow
+}
+.encabezado {
+background-color: rgb(76, 175, 80);
+color: white;
+text-align: center;
+padding: 20px;
+}
+h1 {
+font-size: 36px;
+margin: 0;
+}
+h2 {
+font-size: 28px;
+margin-top: 10px;
+}
+.menu-contenido {
+margin-top: 15px;
+}
+.menu {
+list-style: none;
+padding: 0;
+text-align: center;
+}
+.menu li {
+display: inline;
+margin: 0 15px;
+}
+.menu li a {
+color: white;
+font-size: 18px;
+}
+.contenido {
+padding: 20px;
+}
+.seccion {
+margin: 20px 0;
+padding: 20px;
+background-color: white;
+border-radius: 5px;
+border: 1px solid #ddd;
+}
+
+table {
+width: 100%;
+margin-top: 20px;
+border: 1px solid black;
+}
+
+th, td {
+padding: 10px;
+text-align: left;
+border: 1px solid black;
+}
+
+th {
+background-color: rgb(242, 242, 242);
+}
+
+button {
+background-color: rgb(76, 175, 80);
+color: white;
+padding: 10px 20px;
+margin-top: 10px;
+border: none;
+}
+
+input[type="text"], input[type="email"], textarea {
+width: 100%;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+border: 1px solid #ddd;
+}
+
+.pie-pagina {
+background-color: rgb(51, 51, 51);
+color: white;
+text-align: center;
+padding: 10px 0;
+margin-top: 20px;
+}
+.color {color:red
+}
